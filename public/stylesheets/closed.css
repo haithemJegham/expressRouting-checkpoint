@@ -1,0 +1,14 @@
+body {
+  background: url(../images/Picture1.jpg) no-repeat center center fixed;
+}
+body div {
+  font-family: "Satisfy", cursive;
+  text-align: center;
+  background-color: #d1ab7170;
+  width: 50%;
+  margin: 50px auto;
+}
+body img {
+  display: block;
+  margin: 50px auto;
+}
